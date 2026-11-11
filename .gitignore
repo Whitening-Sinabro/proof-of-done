@@ -1,0 +1,5 @@
+# Local tool state and caches. Never part of a release.
+.claude/
+__pycache__/
+*.pyc
+.pytest_cache/
